@@ -1,6 +1,10 @@
 Bioinformatics with Python Cookbook
 ===================================
 
+## HI!
+
+# Kevin Velasco here with another project. In this repo, I will be exploring and hoping to combine my data sciene skills along with my molecular biology knowledge. Genomic studies encompass loads of data, and today there are bioinformatics open-source software to help process this data. I have cloned this repo, which is a github repo from the book `Bioinformatics with Python Cookbook`_
+
 
 This is the github repository with code samples for
 `Bioinformatics with Python Cookbook`_
